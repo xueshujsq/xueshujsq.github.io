@@ -8,8 +8,8 @@ window.settings = {
   // 主题
   theme: {
     sidebar: 'light',
-    header: 'dark',
-    color: 'default'
+    header: 'light',
+    color: 'darkblue'
   },
   // 背景
   background_url: 'https://cdn.jsdelivr.net/gh/xueshujsq/xueshujsq.github.io@main/static/background.jpg'
