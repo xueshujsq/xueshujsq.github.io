@@ -1,8 +1,8 @@
 window.settings = {
   // 站点标题
-  title: 'Test',
+  title: '学术加速器',
   // 站点描述
-  description: 'HAHA',
+  description: '学术加速器测试站',
   // API
   host: 'https://xueshu.icu',
   // 主题
@@ -12,5 +12,5 @@ window.settings = {
     color: 'default'
   },
   // 背景
-  background_url: ''
+  background_url: 'https://cdn.jsdelivr.net/gh/xueshujsq/xueshujsq.github.io@main/static/background.jpg'
 }
