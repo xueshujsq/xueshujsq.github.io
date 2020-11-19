@@ -2,9 +2,9 @@ window.settings = {
   // 站点标题
   title: '学术加速器',
   // 站点描述
-  description: '学术加速器测试站',
+  description: '学术加速器',
   // API
-  host: 'https://xueshu.icu',
+  host: 'https://my.xueshujsq.top',
   // 主题
   theme: {
     sidebar: 'light',
